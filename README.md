@@ -12,8 +12,7 @@ I'm Joe.
 </p>
 
   ---
- 
-### Boy Scout Rule
+
 
 
 
