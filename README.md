@@ -1,3 +1,6 @@
+[![Header](https://raw.githubusercontent.com/JoeWhoCodes/JoeWhoCodes/Main/header-image.jpg "Header")](https://some-url.dev/)
+
+
 ### Hi there 👋
 
 <!--
