@@ -1,5 +1,4 @@
-[![Header](https://raw.githubusercontent.com/JoeWhoCodes/JoeWhoCodes/Main/header-image.jpg "Header")](https://some-url.dev/)
-
+[![Header](https://github.com/joewhocodes/joewhocodes/blob/main/header-image.jpg?raw=true)](https://joewhocodes.co.uk/)
 
 ### Hi there 👋
 
