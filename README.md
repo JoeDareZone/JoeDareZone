@@ -13,6 +13,93 @@ I'm Joe.
 
   ---
 
+<h2 align="center" color="white">Projects</h2>
+<div align="center">
+	<table>
+		<tr>
+			<td width="50%">
+				<h3 align="center" color="white">MovieGoJoe</h2>
+				<div align="center" >  
+					<a href="https://moviegojoe.netlify.app">
+						<img src="https://github.com/joewhocodes/readme-assets/blob/main/project_images/moviegojoe.gif" alt="MovieGoJoe, my movie web app" height="100%" />
+					</a>
+					<br>
+					<br>
+					<p>
+						<a href="https://github.com/joewhocodes/movie-app-joe" target="_blank">
+							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+						</a>  
+						<a href="https://moviegojoe.netlify.app/" target="_blank">
+							<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=0CA4BD"/>
+						</a>	
+					</p>
+					<p>View trending Movie/TV trailers and add to your watchlist
+                    <br><strong>React, Redux, JavaScript, CSS, HMTL</strong></p>
+				</div>
+			</td>
+			<td width="50%">
+				<h3 align="center" color="white">Pomodoro Joe</h2>
+				<div align="center" >  
+					<a href="https://pomodoro-joe.netlify.app/">
+						<img src="https://github.com/joewhocodes/readme-assets/blob/main/project_images/pomodoro-joe.gif" alt="Pomodoro Joe, my pomodoro timer web app" height="100%" />
+					</a>
+					<br>
+					<br>
+					<p>
+						<a href="https://github.com/joewhocodes/pomodoro-joe" target="_blank">
+							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+						</a>  
+						<a href="https://pomodoro-joe.netlify.app/" target="_blank">
+							<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=0CA4BD"/>
+						</a>	
+					</p>
+					<p>Pomodoro Timer with tasklist and music
+                    <br><strong>React, JavaScript, CSS, HMTL</strong></p>
+				</div>         
+	<tr>
+		<td width="50%">
+			<h3 align="center" color="white">JoeWhoCodes - Portfolio</h2>
+				<div align="center" >  
+					<a href='https://joewhocodes.co.uk/'>
+						<img src="https://github.com/joewhocodes/readme-assets/blob/main/project_img/joewhocodes-website.gif" alt="My professional portfolio site" height="100%" />
+					</a>
+					<br>
+					<br>
+					<p>
+						<a href="https://github.com/joewhocodes/joewhocodes-website" target="_blank">
+							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+						</a>  
+						<a href="https://joewhocodes.co.uk/" target="_blank">
+							<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=0CA4BD"/>
+						</a>	
+					</p>
+					<p>My Professional Portfolio website<br>
+                    <strong>JavaScript, Bootstrap, CSS, HTML</strong></p>
+				</div>
+		<td width="50%">
+			<h3 align="center" color="white">Coley Creates</h2>
+			<div align="center" >  
+				<a href='https://coleycreates.netlify.app/'>
+					<img src="https://github.com/joewhocodes/readme-assets/blob/main/project_images/coley-creates.gif" alt="Coley Creates Photography Website" height="100%" />
+				</a>
+				<br>
+				<br>
+				<p>
+					<a href="https://coleycreates.netlify.app/" target="_blank">
+						<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+					</a>  
+					<a href="https://coleycreates.netlify.app/" target="_blank">
+						<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=0CA4BD"/>
+					</a>	
+				</p>
+				<p>Photography Website for a client<br>
+                <strong>JavaScript, Bootstrap, CSS, HTML</strong></p>
+			</div>	
+		</td>
+	</table>
+</div>
+<br />
+<br />
 
 
 
