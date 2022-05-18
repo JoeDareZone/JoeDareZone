@@ -8,8 +8,22 @@ I'm Joe.
 </p>
 <p align='center'>A full stack Software Engineer from Bristol, UK.</p>
 <p align='center'>
-
 </p>
+
+<div align="center" >  
+	<a href="https://www.linkedin.com/in/joewhocodes">
+		<img src="https://github.com/joewhocodes/readme-assets/blob/main/profile_images/linkedin.png" alt="linkedin icon" height="45px" />
+	</a>
+	<a href="https://twitter.com/joewhocodes">
+		<img src="https://github.com/joewhocodes/readme-assets/blob/main/profile_images/twitter.png" alt="twitter icon" height="45px" />
+	</a>
+	<a href="mailto:joewhocoes@gmail.com">
+		<img src="https://github.com/joewhocodes/readme-assets/blob/main/profile_images/website.png" alt="email icon" height="45px" />
+	</a>
+	<a href="https://joewhocodes.co.uk/">
+		<img src="https://github.com/joewhocodes/readme-assets/blob/main/profile_images/email.png" alt="website icon" height="45px" />
+	</a>
+</div>
 
   ---
 
