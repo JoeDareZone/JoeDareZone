@@ -61,7 +61,7 @@ I'm Joe.
 			<h3 align="center" color="white">JoeWhoCodes - Portfolio</h2>
 				<div align="center" >  
 					<a href='https://joewhocodes.co.uk/'>
-						<img src="https://github.com/joewhocodes/readme-assets/blob/main/project_img/joewhocodes-website.gif" alt="My professional portfolio site" height="100%" />
+						<img src="https://github.com/joewhocodes/readme-assets/blob/main/project_images/joewhocodes_portfolio.gif" alt="My professional portfolio site" height="100%" />
 					</a>
 					<br>
 					<br>
