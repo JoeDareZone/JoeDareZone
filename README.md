@@ -41,7 +41,7 @@ I'm Joe.
 					<br>
 					<p>
 						<a href="https://github.com/joewhocodes/movie-app-joe" target="_blank">
-							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+							<img src="https://img.shields.io/badge/Repo-important?style=for-the-badge&logo=github"/>
 						</a>  
 						<a href="https://moviegojoe.netlify.app/" target="_blank">
 							<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=0CA4BD"/>
@@ -61,7 +61,7 @@ I'm Joe.
 					<br>
 					<p>
 						<a href="https://github.com/joewhocodes/pomodoro-joe" target="_blank">
-							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+							<img src="https://img.shields.io/badge/Repo-important?style=for-the-badge&logo=github"/>
 						</a>  
 						<a href="https://pomodoro-joe.netlify.app/" target="_blank">
 							<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=0CA4BD"/>
@@ -81,7 +81,7 @@ I'm Joe.
 					<br>
 					<p>
 						<a href="https://github.com/joewhocodes/joewhocodes-website" target="_blank">
-							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+							<img src="https://img.shields.io/badge/Repo-important?style=for-the-badge&logo=github"/>
 						</a>  
 						<a href="https://joewhocodes.co.uk/" target="_blank">
 							<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=0CA4BD"/>
@@ -100,7 +100,7 @@ I'm Joe.
 				<br>
 				<p>
 					<a href="https://coleycreates.netlify.app/" target="_blank">
-						<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+						<img src="https://img.shields.io/badge/Repo-important?style=for-the-badge&logo=github"/>
 					</a>  
 					<a href="https://coleycreates.netlify.app/" target="_blank">
 						<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=0CA4BD"/>
