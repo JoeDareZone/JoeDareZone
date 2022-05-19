@@ -35,7 +35,7 @@ I'm Joe.
 				<h3 align="center" color="white">MovieGoJoe</h2>
 				<div align="center" >  
 					<a href="https://moviegojoe.netlify.app">
-						<img src="https://github.com/joewhocodes/readme-assets/blob/main/project_images/moviegojoe.gif" alt="MovieGoJoe, my movie web app" height="100%" />
+						<img src="https://github.com/joewhocodes/readme-assets/blob/main/project_images/moviegojoe.gif" alt="MovieGoJoe, my movie web app"  />
 					</a>
 					<br>
 					<br>
@@ -55,7 +55,7 @@ I'm Joe.
 				<h3 align="center" color="white">Pomodoro Joe</h2>
 				<div align="center" >  
 					<a href="https://pomodoro-joe.netlify.app/">
-						<img src="https://github.com/joewhocodes/readme-assets/blob/main/project_images/pomodoro-joe.gif" alt="Pomodoro Joe, my pomodoro timer web app" height="100%" />
+						<img src="https://github.com/joewhocodes/readme-assets/blob/main/project_images/pomodoro-joe.gif" alt="Pomodoro Joe, my pomodoro timer web app" />
 					</a>
 					<br>
 					<br>
@@ -75,7 +75,7 @@ I'm Joe.
 			<h3 align="center" color="white">JoeWhoCodes - Portfolio</h2>
 				<div align="center" >  
 					<a href='https://joewhocodes.co.uk/'>
-						<img src="https://github.com/joewhocodes/readme-assets/blob/main/project_images/joewhocodes_portfolio.gif" alt="My professional portfolio site" height="100%" />
+						<img src="https://github.com/joewhocodes/readme-assets/blob/main/project_images/joewhocodes_portfolio.gif" alt="My professional portfolio site" />
 					</a>
 					<br>
 					<br>
@@ -94,7 +94,7 @@ I'm Joe.
 			<h3 align="center" color="white">Coley Creates</h2>
 			<div align="center" >  
 				<a href='https://coleycreates.netlify.app/'>
-					<img src="https://github.com/joewhocodes/readme-assets/blob/main/project_images/coley-creates.gif" alt="Coley Creates Photography Website" height="100%" />
+					<img src="https://github.com/joewhocodes/readme-assets/blob/main/project_images/coley-creates.gif" alt="Coley Creates Photography Website" />
 				</a>
 				<br>
 				<br>
