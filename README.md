@@ -11,16 +11,16 @@ I'm Joe.
 </p>
 
 <div align="center" >  
-	<a href="https://www.linkedin.com/in/joewhocodes">
+	<a href="https://www.linkedin.com/in/joewhocodes" target="_blank">
 		<img src="https://github.com/joewhocodes/readme-assets/blob/main/profile_images/linkedin.png" alt="linkedin icon" height="45px" />
 	</a>
-	<a href="https://twitter.com/joewhocodes">
+	<a href="https://twitter.com/joewhocodes" target="_blank">
 		<img src="https://github.com/joewhocodes/readme-assets/blob/main/profile_images/twitter.png" alt="twitter icon" height="45px" />
 	</a>
-	<a href="mailto:joewhocoes@gmail.com">
+	<a href="mailto:joewhocoes@gmail.com" target="_blank">
 		<img src="https://github.com/joewhocodes/readme-assets/blob/main/profile_images/website.png" alt="email icon" height="45px" />
 	</a>
-	<a href="https://joewhocodes.co.uk/">
+	<a href="https://joewhocodes.co.uk/" target="_blank">
 		<img src="https://github.com/joewhocodes/readme-assets/blob/main/profile_images/email.png" alt="website icon" height="45px" />
 	</a>
 </div>
@@ -34,7 +34,7 @@ I'm Joe.
 			<td width="50%">
 				<h3 align="center" color="white">MovieGoJoe</h2>
 				<div align="center" >  
-					<a href="https://moviegojoe.netlify.app">
+					<a href="https://moviegojoe.netlify.app" target="_blank">
 						<img src="https://github.com/joewhocodes/readme-assets/blob/main/project_images/moviegojoe.gif" alt="MovieGoJoe, my movie web app"  />
 					</a>
 					<br>
@@ -54,7 +54,7 @@ I'm Joe.
 			<td width="50%">
 				<h3 align="center" color="white">Pomodoro Joe</h2>
 				<div align="center" >  
-					<a href="https://pomodoro-joe.netlify.app/">
+					<a href="https://pomodoro-joe.netlify.app/" target="_blank">
 						<img src="https://github.com/joewhocodes/readme-assets/blob/main/project_images/pomodoro-joe.gif" alt="Pomodoro Joe, my pomodoro timer web app" />
 					</a>
 					<br>
@@ -74,7 +74,7 @@ I'm Joe.
 		<td width="50%">
 			<h3 align="center" color="white">JoeWhoCodes - Portfolio</h2>
 				<div align="center" >  
-					<a href='https://joewhocodes.co.uk/'>
+					<a href='https://joewhocodes.co.uk/' target="_blank">
 						<img src="https://github.com/joewhocodes/readme-assets/blob/main/project_images/joewhocodes_portfolio.gif" alt="My professional portfolio site" />
 					</a>
 					<br>
@@ -99,7 +99,7 @@ I'm Joe.
 				<br>
 				<br>
 				<p>
-					<a href="https://coleycreates.netlify.app/" target="_blank">
+					<a href="https://github.com/joewhocodes/coleycreates" target="_blank">
 						<img src="https://img.shields.io/badge/Repo-important?style=for-the-badge&logo=github"/>
 					</a>  
 					<a href="https://coleycreates.netlify.app/" target="_blank">
