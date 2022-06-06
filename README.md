@@ -104,7 +104,7 @@ I'm Joe.
 				<br>
 				<br>
 				<p>
-					<a href="https://github.com/joewhocodes/coleycreates" target="_blank">
+					<a href="https://github.com/joewhocodes/coley-creates" target="_blank">
 						<img src="https://img.shields.io/badge/Repo-important?style=for-the-badge&logo=github"/>
 					</a>  
 					<a href="https://coleycreates.netlify.app/" target="_blank">
