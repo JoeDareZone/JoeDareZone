@@ -18,17 +18,10 @@ I'm Joe.
 	<a href="https://twitter.com/joewhocodes" target="_blank">
 		<img src="https://github.com/joewhocodes/readme-assets/blob/main/profile_images/twitter.png" alt="twitter icon" height="45px" />
 	</a>
-<<<<<<< HEAD
 	<a href="mailto:joewhocodes@gmail.com" target="_blank">
 		<img src="https://github.com/joewhocodes/readme-assets/blob/main/profile_images/website.png" alt="email icon" height="45px" />
 	</a>
 	<a href="https://joewhocodes.co.uk/" target="_blank">
-=======
-	<a href="https://joewhocodes.co.uk/">
-		<img src="https://github.com/joewhocodes/readme-assets/blob/main/profile_images/website.png" alt="email icon" height="45px" />
-	</a>
-	<a href="mailto:joewhocodes@gmail.com">
->>>>>>> a309d5e6110fae73202e84b45c0caf3fb132a0ae
 		<img src="https://github.com/joewhocodes/readme-assets/blob/main/profile_images/email.png" alt="website icon" height="45px" />
 	</a>
 </div>
