@@ -57,10 +57,10 @@ I'm Joe.
 				</div>
 			</td>
 			<td width="50%">
-				<h3 align="center" color="white">Pomodoro Joe</h2>
+				<h3 align="center" color="white">The Burrows B&B</h2>
 				<div align="center" >  
-					<a href="https://pomodoro-joe.netlify.app/" target="_blank">
-						<img src="https://github.com/joewhocodes/readme-assets/blob/main/project_images/pomodoro-joe.gif" alt="Pomodoro Joe, my pomodoro timer web app" />
+					<a href="https://www.theburrowsportclew.co.uk/" target="_blank">
+						<img src="https://github.com/joewhocodes/readme-assets/blob/main/project_images/the-burrows.gif" alt="The Burrows Bed & Breakfast site" />
 					</a>
 					<br>
 					<br>
