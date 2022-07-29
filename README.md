@@ -72,7 +72,7 @@ I'm Joe.
 							<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=0CA4BD"/>
 						</a>	
 					</p>
-					<p>Pomodoro Timer with tasklist and music
+					<p>Bed & Breakfast Website with booking platform
                     <br><strong>React, JavaScript, CSS, HMTL</strong></p>
 				</div>         
 	<tr>
