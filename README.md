@@ -30,6 +30,10 @@ I'm Joe.
 
 - 🤝 Now accepting new clients, see my portfolio at **joewhocodes.co.uk**
 
+
+[![Linkedin Badge](https://img.shields.io/badge/-Cynthia%20Fu-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/ycfu/)](https://www.linkedin.com/in/ycfu/)
+[![Codewars Badge](https://www.codewars.com/users/Yinnikkuma/badges/micro)](https://www.codewars.com/users/Yinnikkuma)
+[![GitHub Follow](https://img.shields.io/github/followers/YinnyF?label=Follow&style=social)](https://github.com/YinnyF/?tab=follow)
   ---
 
 <h2 align="center" color="white">Projects</h2>
