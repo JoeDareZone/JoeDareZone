@@ -31,12 +31,12 @@ I'm Joe.
 - 🤝 Now accepting new clients, see my portfolio at **joewhocodes.co.uk**
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-Cynthia%20Fu-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/ycfu/)](https://www.linkedin.com/in/ycfu/)
-[![Codewars Badge](https://www.codewars.com/users/Yinnikkuma/badges/micro)](https://www.codewars.com/users/Yinnikkuma)
-[![GitHub Follow](https://img.shields.io/github/followers/YinnyF?label=Follow&style=social)](https://github.com/YinnyF/?tab=follow)
+[![Linkedin Badge](https://img.shields.io/badge/-Joe%20Ulyatt-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/joewhocodes/)](https://www.linkedin.com/in/joewhocodes/)
+[![Codewars Badge](https://www.codewars.com/users/joewhocodes/badges/micro)](https://www.codewars.com/users/joewhocodes)
+[![GitHub Follow](https://img.shields.io/github/followers/joewhocodes?label=Follow&style=social)](https://github.com/joewhocodes/?tab=follow)
   ---
 
-<h2 align="center" color="white">Projects</h2>
+<h2 align="center" color="white">Recent Projects</h2>
 <div align="center">
 	<table>
 		<tr>
