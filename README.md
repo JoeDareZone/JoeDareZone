@@ -167,8 +167,10 @@ I'm Joe.
 		<a href="https://git-scm.com/">
 			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" 	height="80px" width="80px"/>
 		</a>
-</div>          
-
+</div>
+<br>	
+<div align="center">
+	
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joewhocodes&" alt="joewhocodes" /></p>
-
+</div>   
 
