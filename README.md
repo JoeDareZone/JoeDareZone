@@ -28,7 +28,7 @@ I'm Joe.
 
 - 🌱 I’m currently learning **node.js**
 
-- 🤝 Now accepting new clients, see my portfolio at **joewhocodes.co.uk**
+- 🤝 Now accepting new clients, see my portfolio at <a href='https://joewhocodes.co.uk/'>**joewhocodes.co.uk**<a/>
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Joe%20Ulyatt-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/joewhocodes/)](https://www.linkedin.com/in/joewhocodes/)
