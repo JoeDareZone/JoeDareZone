@@ -6,7 +6,7 @@
 I'm Joe.
     
 </p>
-<p align='center'>A full stack Software Engineer from Bristol, UK.</p>
+<p align='center'>A full stack Software Engineer living in Berlin, Germany.</p>
 <p align='center'>
 </p>
 
