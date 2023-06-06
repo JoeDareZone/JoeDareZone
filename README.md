@@ -6,7 +6,7 @@
 I'm Joe.
     
 </p>
-<p align='center'>A full stack Software Engineer living in Berlin, Germany.</p>
+<p align='center'>A full-stack Software Engineer living in Berlin, Germany.</p>
 <p align='center'>
 </p>
 
@@ -26,7 +26,7 @@ I'm Joe.
 	</a>
 </div>
 
-- 🌱 I’m currently learning **node.js**
+- 🌱 I’m currently expanding my knowledge of **node.js**
 
 - 🤝 Now accepting new clients, see my portfolio at <a href='https://joewhocodes.co.uk/'>**joewhocodes.co.uk**<a/>
 
@@ -41,40 +41,40 @@ I'm Joe.
 	<table>
 		<tr>
 			<td width="50%">
-				<h3 align="center" color="white">MovieGoJoe</h2>
+				<h3 align="center" color="white">No Strings Attached</h2>
 				<div align="center" >  
-					<a href="https://moviegojoe.netlify.app" target="_blank">
-						<img src="https://github.com/joewhocodes/readme-assets/blob/main/project_images/moviegojoe.gif" alt="MovieGoJoe, my movie web app"  />
+					<a href="https://nostringsattached.onrender.com" target="_blank">
+						<img src="https://github.com/joewhocodes/readme-assets/blob/main/project_images/nostringsattached-gif.gif" alt="No Strings Attached website"  />
 					</a>
 					<br>
 					<br>
 					<p>
-						<a href="https://github.com/joewhocodes/movie-app-joe" target="_blank">
+						<a href="https://github.com/joewhocodes/nostringsattached" target="_blank">
 							<img src="https://img.shields.io/badge/Repo-important?style=for-the-badge&logo=github"/>
 						</a>  
-						<a href="https://moviegojoe.netlify.app/" target="_blank">
+						<a href="https://nostringsattached.onrender.com" target="_blank">
+							<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=0CA4BD"/>
+						</a>	
+					</p>
+					<p>Full-Stack Social Media Web App
+                    <br><strong>MERN Stack - MongoDB, Express, React, Node.js, Redux,</strong></p>
+				</div>
+			</td>
+			<td width="50%">
+				<h3 align="center" color="white">MovieGoJoe</h2>
+				<div align="center" >  
+					<a href="https://moviegojoe.netlify.app" target="_blank">
+						<img src="https://github.com/joewhocodes/readme-assets/blob/main/project_images/moviegojoe.gif" alt="Movie Go Joe website" />
+					</a>
+					<br>
+					<br>
+					<p>
+						<a href="https://moviegojoe.netlify.app" target="_blank">
 							<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=0CA4BD"/>
 						</a>	
 					</p>
 					<p>View trending Movie/TV trailers and add to your watchlist
                     <br><strong>React, Redux, JavaScript, CSS, HMTL</strong></p>
-				</div>
-			</td>
-			<td width="50%">
-				<h3 align="center" color="white">The Burrows B&B</h2>
-				<div align="center" >  
-					<a href="https://www.theburrowsportclew.co.uk/" target="_blank">
-						<img src="https://github.com/joewhocodes/readme-assets/blob/main/project_images/the-burrows.gif" alt="The Burrows Bed & Breakfast site" />
-					</a>
-					<br>
-					<br>
-					<p>
-						<a href="https://www.theburrowsportclew.co.uk" target="_blank">
-							<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=0CA4BD"/>
-						</a>	
-					</p>
-					<p>Bed & Breakfast Website with booking platform
-                    <br><strong>React, JavaScript, CSS, HMTL</strong></p>
 				</div>         
 	<tr>
 		<td width="50%">
@@ -97,24 +97,21 @@ I'm Joe.
                     <strong>MERN Stack</strong></p>
 				</div>
 		<td width="50%">
-			<h3 align="center" color="white">Coley Creates</h2>
+			<h3 align="center" color="white">The Burrows B&B</h2>
 			<div align="center" >  
-				<a href='https://coleycreates.netlify.app/'>
-					<img src="https://github.com/joewhocodes/readme-assets/blob/main/project_images/coley-creates.gif" alt="Coley Creates Photography Website" />
+				<a href="https://www.theburrowsportclew.co.uk/" target="_blank">
+					<img src="https://github.com/joewhocodes/readme-assets/blob/main/project_images/the-burrows.gif" alt="The Burrows Bed & Breakfast site" />
 				</a>
 				<br>
 				<br>
 				<p>
-					<a href="https://github.com/joewhocodes/coley-creates" target="_blank">
-						<img src="https://img.shields.io/badge/Repo-important?style=for-the-badge&logo=github"/>
-					</a>  
-					<a href="https://coleycreates.netlify.app/" target="_blank">
+					<a href="https://www.theburrowsportclew.co.uk" target="_blank">
 						<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=0CA4BD"/>
-					</a>	
+					</a>    
 				</p>
-				<p>Photography Website for a client<br>
-                <strong>JavaScript, Bootstrap, CSS, HTML</strong></p>
-			</div>	
+				<p>Hotel website with integrated booking platform
+				<br><strong>JavaScript, Jquery, CSS, HMTL</strong></p>
+			</div>         
 		</td>
 	</table>
 </div>
