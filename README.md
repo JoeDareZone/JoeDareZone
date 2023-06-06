@@ -6,7 +6,7 @@
 I'm Joe.
     
 </p>
-<p align='center'>A full-stack Software Engineer living in Berlin, Germany.</p>
+<p align='center'>A Full Stack Software Engineer living in Berlin, Germany.</p>
 <p align='center'>
 </p>
 
@@ -56,7 +56,7 @@ I'm Joe.
 							<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=0CA4BD"/>
 						</a>	
 					</p>
-					<p>Full-Stack Social Media Web App
+					<p>Full Stack Social Media Web App
                     <br><strong>MERN Stack - MongoDB, Express, React, Node.js, Redux,</strong></p>
 				</div>
 			</td>
