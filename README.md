@@ -78,23 +78,23 @@ I'm Joe.
 				</div>         
 	<tr>
 		<td width="50%">
-			<h3 align="center" color="white">No Strings Attached</h2>
+			<h3 align="center" color="white">Pomodoro Joe</h2>
 				<div align="center" >  
-					<a href='https://nostringsattached.onrender.com' target="_blank">
-						<img src="https://github.com/joewhocodes/readme-assets/blob/main/project_images/nostringsattached-gif.gif" alt="No Strings Attached website" />
+					<a href='https://pomodoro-joe.netlify.app' target="_blank">
+						<img src="https://github.com/joewhocodes/readme-assets/blob/main/project_images/pomodorojoe.gif" alt="Pomodoro Joe website" />
 					</a>
 					<br>
 					<br>
 					<p>
-						<a href="https://github.com/joewhocodes/nostringsattached" target="_blank">
+						<a href="https://github.com/joewhocodes/pomodorojoe" target="_blank">
 							<img src="https://img.shields.io/badge/Repo-important?style=for-the-badge&logo=github"/>
 						</a>  
-						<a href="https://nostringsattached.onrender.com" target="_blank">
+						<a href="https://pomodoro-joe.netlify.app" target="_blank">
 							<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=0CA4BD"/>
 						</a>	
 					</p>
-					<p>Full-Stack Social Media Web App<br>
-                    <strong>MERN Stack</strong></p>
+					<p>Pomodoro Timer with Tasks list and music player<br>
+                    <strong>React, JavaScript, CSS, HMTL</strong></p>
 				</div>
 		<td width="50%">
 			<h3 align="center" color="white">The Burrows B&B</h2>
