@@ -78,23 +78,23 @@ I'm Joe.
 				</div>         
 	<tr>
 		<td width="50%">
-			<h3 align="center" color="white">JoeWhoCodes - Portfolio</h2>
+			<h3 align="center" color="white">No Strings Attached</h2>
 				<div align="center" >  
-					<a href='https://joewhocodes.co.uk/' target="_blank">
-						<img src="https://github.com/joewhocodes/readme-assets/blob/main/project_images/joewhocodes_portfolio.gif" alt="My professional portfolio site" />
+					<a href='https://nostringsattached.onrender.com' target="_blank">
+						<img src="https://github.com/joewhocodes/readme-assets/blob/main/project_images/nostringsattached-gif.gif" alt="No Strings Attached website" />
 					</a>
 					<br>
 					<br>
 					<p>
-						<a href="https://github.com/joewhocodes/joewhocodes-website" target="_blank">
+						<a href="https://github.com/joewhocodes/nostringsattached" target="_blank">
 							<img src="https://img.shields.io/badge/Repo-important?style=for-the-badge&logo=github"/>
 						</a>  
-						<a href="https://joewhocodes.co.uk/" target="_blank">
+						<a href="https://nostringsattached.onrender.com" target="_blank">
 							<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=0CA4BD"/>
 						</a>	
 					</p>
-					<p>My Professional Portfolio website<br>
-                    <strong>JavaScript, Bootstrap, CSS, HTML</strong></p>
+					<p>Full-Stack Social Media Web App<br>
+                    <strong>MERN Stack</strong></p>
 				</div>
 		<td width="50%">
 			<h3 align="center" color="white">Coley Creates</h2>
