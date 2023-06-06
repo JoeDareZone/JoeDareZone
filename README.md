@@ -81,7 +81,7 @@ I'm Joe.
 			<h3 align="center" color="white">Pomodoro Joe</h2>
 				<div align="center" >  
 					<a href='https://pomodoro-joe.netlify.app' target="_blank">
-						<img src="https://github.com/joewhocodes/readme-assets/blob/main/project_images/pomodorojoe.gif" alt="Pomodoro Joe website" />
+						<img src="https://github.com/joewhocodes/readme-assets/blob/main/project_images/pomodoro-joe.gif" alt="Pomodoro Joe website" />
 					</a>
 					<br>
 					<br>
