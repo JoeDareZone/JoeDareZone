@@ -49,7 +49,7 @@ I'm Joe.
 					<br>
 					<br>
 					<p>
-						<a href="https://github.com/joewhocodes/nostringsattached" target="_blank">
+						<a href="https://github.com/joewhocodes/no-strings-attached" target="_blank">
 							<img src="https://img.shields.io/badge/Repo-important?style=for-the-badge&logo=github"/>
 						</a>  
 						<a href="https://nostringsattached.onrender.com" target="_blank">
@@ -69,6 +69,9 @@ I'm Joe.
 					<br>
 					<br>
 					<p>
+						<a href="https://github.com/joewhocodes/moviegojoe" target="_blank">
+							<img src="https://img.shields.io/badge/Repo-important?style=for-the-badge&logo=github"/>
+						</a>  
 						<a href="https://moviegojoe.netlify.app" target="_blank">
 							<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=0CA4BD"/>
 						</a>	
@@ -86,7 +89,7 @@ I'm Joe.
 					<br>
 					<br>
 					<p>
-						<a href="https://github.com/joewhocodes/pomodorojoe" target="_blank">
+						<a href="https://github.com/joewhocodes/pomodoro-joe" target="_blank">
 							<img src="https://img.shields.io/badge/Repo-important?style=for-the-badge&logo=github"/>
 						</a>  
 						<a href="https://pomodoro-joe.netlify.app" target="_blank">
