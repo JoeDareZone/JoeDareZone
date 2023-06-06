@@ -76,7 +76,7 @@ I'm Joe.
 							<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=0CA4BD"/>
 						</a>	
 					</p>
-					<p>View trending Movie/TV trailers and add to your watchlist
+					<p>View trending Movie/TV trailers and add to a watchlist
                     <br><strong>React, Redux, JavaScript, CSS, HMTL</strong></p>
 				</div>         
 	<tr>
