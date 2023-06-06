@@ -44,7 +44,7 @@ I'm Joe.
 				<h3 align="center" color="white">No Strings Attached</h2>
 				<div align="center" >  
 					<a href="https://nostringsattached.onrender.com" target="_blank">
-						<img src="https://github.com/joewhocodes/readme-assets/blob/main/project_images/nostringsattached-gif.gif" alt="No Strings Attached website"  />
+						<img  height='207px' src="https://github.com/joewhocodes/readme-assets/blob/main/project_images/nostringsattached-gif.gif" alt="No Strings Attached website"  />
 					</a>
 					<br>
 					<br>
@@ -81,7 +81,7 @@ I'm Joe.
 			<h3 align="center" color="white">Pomodoro Joe</h2>
 				<div align="center" >  
 					<a href='https://pomodoro-joe.netlify.app' target="_blank">
-						<img height='207px' src="https://github.com/joewhocodes/readme-assets/blob/main/project_images/pomodoro-joe.gif" alt="Pomodoro Joe website" />
+						<img src="https://github.com/joewhocodes/readme-assets/blob/main/project_images/pomodoro-joe.gif" alt="Pomodoro Joe website" />
 					</a>
 					<br>
 					<br>
