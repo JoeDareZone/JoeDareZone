@@ -1,4 +1,4 @@
-[![Header](https://github.com/joewhocodes/joewhocodes/blob/dc0e777efb2c71d983e6dc2f45561f4d1f227782/%20linked-in-banner.png)](https://joewhocodes.co.uk/)
+[![Header](https://github.com/joewhocodes/joewhocodes/blob/4357c83280b7fb4a1594ed86b250d22f14be4598/%20linked-in-banner2.png)](https://joewhocodes.co.uk/)
 
 <h1 align='center'> Hi there! :wave:</h1>
 
