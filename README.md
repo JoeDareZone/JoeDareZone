@@ -26,7 +26,7 @@ I'm Joe.
 	</a>
 </div>
 
-- 🌱 I’m currently expanding my knowledge of **node.js**
+- 🌱 I’m currently expanding my knowledge of **React Native**
 
 - 🤝 Now accepting new clients, see my portfolio at <a href='https://joewhocodes.co.uk/'>**joewhocodes.co.uk**<a/>
 
