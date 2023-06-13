@@ -44,7 +44,7 @@ I'm Joe.
 				<h3 align="center" color="white">No Strings Attached</h2>
 				<div align="center" >  
 					<a href="https://nostringsattached.onrender.com" target="_blank">
-						<img  height='207px' src="https://github.com/joewhocodes/readme-assets/blob/main/project_images/nostringsattached-gif.gif" alt="No Strings Attached website"  />
+						<img  width='450px' src="https://github.com/joewhocodes/readme-assets/blob/main/project_images/nostringsattached-gif.gif" alt="No Strings Attached website"  />
 					</a>
 					<br>
 					<br>
