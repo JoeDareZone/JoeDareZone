@@ -128,10 +128,18 @@ I'm Joe.
 <h3 align="left">Languages and Tools:</h3>
 <div align="center">
 	<h2>Front End</h2>
+		<a href="https://reactjs.org/">
+			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" 	height="80px" width="80px"/>
+		</a>
+		<a href="https://redux.js.org/">
+			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" 	height="80px" width="80px"/>
+		</a>
+		<a href="https://www.javascript.com/">
+			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="80px" width="80px"/>
+		</a>
 		<a href="https://getbootstrap.com/">
 			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" /
-			height="100px" width="100px"
-			>
+			height="100px" width="100px">
 		</a>
 		<a href="https://www.w3.org/Style/CSS/Overview.en.html">
 			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" 	height="80px" width="80px"/>
@@ -139,30 +147,21 @@ I'm Joe.
 		<a href="https://en.wikipedia.org/wiki/HTML5">
 			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" 	height="80px" width="80px"/>
 		</a>
-		<a href="https://www.javascript.com/">
-		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="80px" width="80px"/>
-		</a>
-		<a href="https://reactjs.org/">
-			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" 	height="80px" width="80px"/>
-		</a>
-		<a href="https://redux.js.org/">
-			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" 	height="80px" width="80px"/>
-		</a>
 		<br>
 	<h2>Back End</h2>
-		<a href="https://www.mongodb.com/">
-			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" 	height="80px" width="80px"/>
-		</a>
 		<a href="https://expressjs.com/">
 			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" 	height="80px" width="80px"/>
 		</a>
 		<a href="https://nodejs.org/en/">
 			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" 	height="80px" width="80px"/>
 		</a>
+		<a href="https://www.mongodb.com/">
+			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" 	height="80px" width="80px"/>
+		</a>
 		<br>
 	<h2>Other</h2>
 		<a href="https://www.adobe.com/uk/products/photoshop.html">
-		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" 	height="80px" width="80px"/>
+			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" 	height="80px" width="80px"/>
 		</a>
 		<a href="https://git-scm.com/">
 			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" 	height="80px" width="80px"/>
