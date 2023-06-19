@@ -1,4 +1,4 @@
-[![Header](https://github.com/joewhocodes/joewhocodes/blob/main/header-image.png?raw=true)](https://joewhocodes.co.uk/)
+[![Header](https://github.com/joewhocodes/joewhocodes/blob/4357c83280b7fb4a1594ed86b250d22f14be4598/%20linked-in-banner2.png)](https://joewhocodes.co.uk/)
 
 <h1 align='center'> Hi there! :wave:</h1>
 
@@ -6,7 +6,7 @@
 I'm Joe.
     
 </p>
-<p align='center'>A full-stack Software Engineer living in Berlin, Germany.</p>
+<p align='center'>A Full Stack Software Engineer living in Berlin, Germany.</p>
 <p align='center'>
 </p>
 
@@ -26,7 +26,7 @@ I'm Joe.
 	</a>
 </div>
 
-- 🌱 I’m currently expanding my knowledge of **node.js**
+- 🌱 I’m currently expanding my knowledge of **React Native**
 
 - 🤝 Now accepting new clients, see my portfolio at <a href='https://joewhocodes.co.uk/'>**joewhocodes.co.uk**<a/>
 
@@ -44,7 +44,7 @@ I'm Joe.
 				<h3 align="center" color="white">No Strings Attached</h2>
 				<div align="center" >  
 					<a href="https://nostringsattached.onrender.com" target="_blank">
-						<img  height='207px' src="https://github.com/joewhocodes/readme-assets/blob/main/project_images/nostringsattached-gif.gif" alt="No Strings Attached website"  />
+						<img src="https://github.com/joewhocodes/readme-assets/blob/main/project_images/nostringsattached-gif.gif" alt="No Strings Attached website"  />
 					</a>
 					<br>
 					<br>
@@ -56,7 +56,7 @@ I'm Joe.
 							<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=0CA4BD"/>
 						</a>	
 					</p>
-					<p>Full-Stack Social Media Web App
+					<p>Full Stack Social Media Web App
                     <br><strong>MERN Stack - MongoDB, Express, React, Node.js, Redux,</strong></p>
 				</div>
 			</td>
@@ -76,7 +76,7 @@ I'm Joe.
 							<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=0CA4BD"/>
 						</a>	
 					</p>
-					<p>View trending Movie/TV trailers and add to your watchlist
+					<p>View trending Movie/TV trailers and add to a watchlist
                     <br><strong>React, Redux, JavaScript, CSS, HMTL</strong></p>
 				</div>         
 	<tr>
