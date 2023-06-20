@@ -131,11 +131,11 @@ I'm Joe.
 		<a href="https://reactjs.org/">
 			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" 	height="80px" width="80px"/>
 		</a>
-		<a href="https://www.typescriptlang.org">
-			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" 	height="80px" width="80px"/>
-		</a>
 		<a href="https://redux.js.org/">
 			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" 	height="80px" width="80px"/>
+		</a>
+		<a href="https://www.typescriptlang.org">
+			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" 	height="80px" width="80px"/>
 		</a>
 		<a href="https://www.javascript.com/">
 			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="80px" width="80px"/>
