@@ -1,4 +1,5 @@
-[![Header](https://github.com/joedarezone/joedarezone/blob/4357c83280b7fb4a1594ed86b250d22f14be4598/%20linked-in-banner2.png)](https://joewhocodes.co.uk/)
+![Beige Modern Elegant Personal LinkedIn Banner (3)](https://github.com/JoeDareZone/JoeDareZone/assets/139753489/6bc9ab17-4a98-440a-83fa-d3252a303d56)
+(https://joewhocodes.co.uk/)
 
 <h1 align='center'> Hi there! :wave:</h1>
 
