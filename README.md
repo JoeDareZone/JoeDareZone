@@ -1,4 +1,4 @@
-![Beige Modern Elegant Personal LinkedIn Banner (3)](https://github.com/JoeDareZone/JoeDareZone/assets/139753489/6bc9ab17-4a98-440a-83fa-d3252a303d56)
+![Beige Modern Elegant Personal LinkedIn Banner](https://github.com/JoeDareZone/JoeDareZone/assets/139753489/c9c9f434-0ba3-4a4a-808b-54c78b664060)
 
 <h1 align='center'> Hi there! :wave:</h1>
 
@@ -18,7 +18,7 @@ I'm Joe.
 	<a href="https://twitter.com/joewhocodes" target="_blank">
 		<img src="https://github.com/joedarezone/readme-assets/blob/main/profile_images/twitter.png" alt="twitter icon" height="45px" />
 	</a>
-	<a href="https://joewhocodes.co.uk/" target="_blank">
+	<a href="joewhocodes.netlify.app" target="_blank">
 		<img src="https://github.com/joedarezone/readme-assets/blob/main/profile_images/website.png" alt="email icon" height="45px" />
 	</a>
 	<a href="mailto:joewhocodes@gmail.com" target="_blank">
@@ -28,7 +28,7 @@ I'm Joe.
 
 - 🌱 I’m currently expanding my knowledge of **Google Cloud Software**
 
-- 🤝 Now accepting new clients, see my portfolio at <a href='https://joewhocodes.co.uk/'>**joewhocodes.co.uk**<a/>
+- 🤝 Now accepting new clients, see my portfolio at <a href='https://joewhocodes.netlify.app'>**joewhocodes.netlify.app**<a/>
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Joe%20Ulyatt-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/joewhocodes/)](https://www.linkedin.com/in/joewhocodes/)
