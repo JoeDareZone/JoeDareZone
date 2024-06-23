@@ -176,9 +176,4 @@ I'm Joe.
 </div>
 <br>	
 <div align="center">
-<h3 align="center">This account</h3>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joedarezone&" alt="joedarezone" /></p>
-<h3 align="center">Previous account</h3>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joewhocodes&" alt="joewhocodes" /></p>
-</div>   
-
