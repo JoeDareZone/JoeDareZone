@@ -1,4 +1,4 @@
-![Beige Modern Elegant Personal LinkedIn Banner](https://github.com/JoeDareZone/JoeDareZone/assets/139753489/c9c9f434-0ba3-4a4a-808b-54c78b664060)
+![1727341072304](https://github.com/user-attachments/assets/dc5954d6-45ad-4a42-8fcb-3ec86f84d0d3)
 
 <h1 align='center'> Hi there! :wave:</h1>
 
