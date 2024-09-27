@@ -6,7 +6,7 @@
 I'm Joe.
     
 </p>
-<p align='center'>A React Native Developer living in Berlin, Germany.</p>
+<p align='center'>A Full Stack Software Engineer living in Berlin, Germany.</p>
 <p align='center'>
 </p>
 
