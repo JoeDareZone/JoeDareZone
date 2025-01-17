@@ -15,10 +15,10 @@ I'm Joe.
 	<a href="https://www.linkedin.com/in/joewhocodes" target="_blank">
 		<img src="https://github.com/joedarezone/readme-assets/blob/main/profile_images/linkedin.png" alt="linkedin icon" height="45px" />
 	</a>
-	<a href="https://twitter.com/joewhocodes" target="_blank">
+	<a href="https://x.com/joewhocodes" target="_blank">
 		<img src="https://github.com/joedarezone/readme-assets/blob/main/profile_images/twitter.png" alt="twitter icon" height="45px" />
 	</a>
-	<a href="joewhocodes.netlify.app" target="_blank">
+	<a href="https://www.joewhocodes.netlify.app" target="_blank">
 		<img src="https://github.com/joedarezone/readme-assets/blob/main/profile_images/website.png" alt="email icon" height="45px" />
 	</a>
 	<a href="mailto:joewhocodes@gmail.com" target="_blank">
