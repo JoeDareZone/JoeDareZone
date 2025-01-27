@@ -25,7 +25,7 @@ I'm Joe.
 	</a>
 </div>
 
-- 🌱 I’m currently expanding my knowledge of **React Native**
+- 🌱 I’m currently expanding my knowledge of **Flutter**
 
 - 🤝 Now accepting new clients, see my portfolio at <a href='https://joewhocodes.netlify.app'>**joewhocodes.netlify.app**<a/>
 
@@ -45,7 +45,7 @@ I'm Joe.
 				<h3 align="center" color="white">Hazel</h2>
 				<div align="center" >  
 					<a href="https://play.google.com/store/apps/details?id=com.darezone.hazel&hl=en_GB" target="_blank">
-						<img src="https://github.com/joewhocodes/readme-assets/blob/main/project_images/hazel-portfolio" alt="Hazel on the App Store"  />
+						<img src="https://github.com/joewhocodes/readme-assets/blob/main/project_images/hazel-portfolio.png" alt="Hazel on the App Store"  />
 					</a>
 					<br>
 					<br>
@@ -65,7 +65,7 @@ I'm Joe.
 				<h3 align="center" color="white">Retrolens</h2>
 				<div align="center" >  
 					<a href="https://apps.apple.com/us/app/retrolens/id6476144464" target="_blank">
-						<img src="https://github.com/joewhocodes/readme-assets/blob/main/project_images/retrolens-portfolio" alt="Retrolens on the App Store" />
+						<img src="https://github.com/joewhocodes/readme-assets/blob/main/project_images/retrolens-portfolio.png" alt="Retrolens on the App Store" />
 					</a>
 					<br>
 					<br>
@@ -82,7 +82,6 @@ I'm Joe.
 				</div>         
 	<tr>
 		<td width="50%">
-<<<<<<< HEAD
 			<h3 align="center" color="white">MovieGoJoe</h2>
 			<div align="center" >  
 				<a href="https://moviegojoe.netlify.app" target="_blank">
@@ -101,26 +100,6 @@ I'm Joe.
 				<p>View trending Movie/TV trailers to add to your watchlist
 				<br><strong>React, Redux, JavaScript, CSS, HMTL</strong></p>
 			</div>      
-=======
-			<h3 align="center" color="white">Pomodoro Joe</h2>
-				<div align="center" >  
-					<a href='https://pomodoro-joe.netlify.app' target="_blank">
-						<img src="https://github.com/joedarezone/readme-assets/blob/main/project_images/pomodoro-joe.gif" alt="Pomodoro Joe website" />
-					</a>
-					<br>
-					<br>
-					<p>
-						<a href="https://github.com/joedarezone/pomodoro-joe" target="_blank">
-							<img src="https://img.shields.io/badge/Repo-important?style=for-the-badge&logo=github"/>
-						</a>  
-						<a href="https://pomodoro-joe.netlify.app" target="_blank">
-							<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=0CA4BD"/>
-						</a>	
-					</p>
-					<p>Pomodoro Timer with Tasks list and music player<br>
-                    <strong>React, JavaScript, CSS, HMTL</strong></p>
-				</div>
->>>>>>> 2f15a3ea7b67154c097d008a56179ed4d2b19384
 		<td width="50%">
 			<h3 align="center" color="white">The Burrows B&B</h2>
 			<div align="center" >  
