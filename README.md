@@ -29,7 +29,7 @@ I'm Joe.
 
 -   🤝 Now accepting new clients, see my portfolio at <a href='https://joewhocodes.netlify.app'>**joewhocodes.com**<a/>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Joe%20Ulyatt-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/joewhocodes/)](https://www.linkedin.com/in/joewhocodes/)
+[![Linkedin Badge](https://custom-icon-badges.demolab.com/badge/LinkedIn%20-0A66C2?logo=linkedin-white&logoColor=fff&link=https://www.linkedin.com/in/joewhocodes/)](https://www.linkedin.com/in/joewhocodes/)
 [![Codewars Badge](https://www.codewars.com/users/joewhocodes/badges/micro)](https://www.codewars.com/users/joewhocodes)
 [![GitHub Follow](https://img.shields.io/github/followers/joewhocodes?label=Follow&style=social)](https://github.com/joedarezone/?tab=follow)
 
@@ -122,10 +122,6 @@ I'm Joe.
 		<a href="https://www.javascript.com/">
 			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="80px" width="80px"/>
 		</a>
-		<a href="https://getbootstrap.com/">
-			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" /
-			height="80px" width="80px">
-		</a>
 		<br>
 	<h2>Back End</h2>
 		<a href="https://expressjs.com/">
@@ -157,4 +153,4 @@ I'm Joe.
 </div>
 <br>	
 <div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joedarezone&" alt="joedarezone" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joedarezone&" alt="joedarezone" /></p> -->
