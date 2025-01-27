@@ -31,7 +31,7 @@ I'm Joe.
 
 [![Linkedin Badge](https://custom-icon-badges.demolab.com/badge/LinkedIn%20-0A66C2?logo=linkedin-white&logoColor=fff&link=https://www.linkedin.com/in/joewhocodes/)](https://www.linkedin.com/in/joewhocodes/)
 [![Codewars Badge](https://www.codewars.com/users/joewhocodes/badges/micro)](https://www.codewars.com/users/joewhocodes)
-[![GitHub Follow](https://img.shields.io/github/followers/joewhocodes?label=Follow&style=social)](https://github.com/joedarezone/?tab=follow)
+[![GitHub Follow](https://img.shields.io/github/followers/joedarezone?label=Follow&style=social)](https://github.com/joedarezone/?tab=follow)
 
 ---
 
