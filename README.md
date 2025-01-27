@@ -31,7 +31,7 @@ I'm Joe.
 
 [![Linkedin Badge](https://img.shields.io/badge/-Joe%20Ulyatt-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/joewhocodes/)](https://www.linkedin.com/in/joewhocodes/)
 [![Codewars Badge](https://www.codewars.com/users/joewhocodes/badges/micro)](https://www.codewars.com/users/joewhocodes)
-[![GitHub Follow](https://img.shields.io/github/followers/joewhocodes?label=Follow&style=social)](https://github.com/joewhocodes/?tab=follow)
+[![GitHub Follow](https://img.shields.io/github/followers/joewhocodes?label=Follow&style=social)](https://github.com/joedarezone/?tab=follow)
 
 ---
 
