@@ -11,7 +11,7 @@ I'm Joe.
 </p>
 
 <div align="center" >  
-	<a href="https://www.linkedin.com/in/joewhocodes" target="_blank">
+	<a href="https://www.linkedin.com/in/joewhocodes" style="text-decoration: none;" target="_blank">
 		<img src="https://github.com/joedarezone/readme-assets/blob/main/profile_images/linkedin.png" alt="linkedin icon" height="45px" />
 	</a>
 	<a href="https://x.com/joewhocodes" target="_blank">
@@ -79,7 +79,7 @@ I'm Joe.
 						<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=0CA4BD"/>
 					</a>	
 				</p>
-				<p>View trending Movie/TV trailers to add to your watchlist
+				<p>View trending Movie/TV trailers
 				<br><strong>React | Redux | JavaScript | CSS | HMTL</strong></p>
 			</div>      
 		<td width="50%">
@@ -124,7 +124,7 @@ I'm Joe.
 		</a>
 		<a href="https://getbootstrap.com/">
 			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" /
-			height="100px" width="100px">
+			height="80px" width="80px">
 		</a>
 		<br>
 	<h2>Back End</h2>
