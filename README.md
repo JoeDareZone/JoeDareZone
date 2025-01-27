@@ -1,4 +1,4 @@
-[![Header](https://github.com/joewhocodes/joewhocodes/blob/4357c83280b7fb4a1594ed86b250d22f14be4598/%20linked-in-banner2.png)](https://joewhocodes.co.uk/)
+![1727341072304](https://github.com/user-attachments/assets/dc5954d6-45ad-4a42-8fcb-3ec86f84d0d3)
 
 <h1 align='center'> Hi there! :wave:</h1>
 
@@ -12,20 +12,22 @@ I'm Joe.
 
 <div align="center" >  
 	<a href="https://www.linkedin.com/in/joewhocodes" target="_blank">
-		<img src="https://github.com/joewhocodes/readme-assets/blob/main/profile_images/linkedin.png" alt="linkedin icon" height="45px" />
+		<img src="https://github.com/joedarezone/readme-assets/blob/main/profile_images/linkedin.png" alt="linkedin icon" height="45px" />
 	</a>
-	<a href="https://twitter.com/joewhocodes" target="_blank">
-		<img src="https://github.com/joewhocodes/readme-assets/blob/main/profile_images/twitter.png" alt="twitter icon" height="45px" />
+	<a href="https://x.com/joewhocodes" target="_blank">
+		<img src="https://github.com/joedarezone/readme-assets/blob/main/profile_images/twitter.png" alt="twitter icon" height="45px" />
 	</a>
-	<a href="https://joewhocodes.co.uk/" target="_blank">
-		<img src="https://github.com/joewhocodes/readme-assets/blob/main/profile_images/website.png" alt="email icon" height="45px" />
+	<a href="https://www.joewhocodes.netlify.app" target="_blank">
+		<img src="https://github.com/joedarezone/readme-assets/blob/main/profile_images/website.png" alt="email icon" height="45px" />
 	</a>
 	<a href="mailto:joewhocodes@gmail.com" target="_blank">
-		<img src="https://github.com/joewhocodes/readme-assets/blob/main/profile_images/email.png" alt="website icon" height="45px" />
+		<img src="https://github.com/joedarezone/readme-assets/blob/main/profile_images/email.png" alt="website icon" height="45px" />
 	</a>
 </div>
 
--   🌱 I’m currently expanding my knowledge of **Flutter**
+- 🌱 I’m currently expanding my knowledge of **React Native**
+
+- 🤝 Now accepting new clients, see my portfolio at <a href='https://joewhocodes.netlify.app'>**joewhocodes.netlify.app**<a/>
 
 -   🤝 Now accepting new clients, see my portfolio at <a href='https://joewhocodes.co.uk/'>**joewhocodes.co.uk**<a/>
 
@@ -80,6 +82,7 @@ I'm Joe.
 				</div>         
 	<tr>
 		<td width="50%">
+<<<<<<< HEAD
 			<h3 align="center" color="white">MovieGoJoe</h2>
 			<div align="center" >  
 				<a href="https://moviegojoe.netlify.app" target="_blank">
@@ -98,11 +101,31 @@ I'm Joe.
 				<p>View trending Movie/TV trailers to add to your watchlist
 				<br><strong>React, Redux, JavaScript, CSS, HMTL</strong></p>
 			</div>      
+=======
+			<h3 align="center" color="white">Pomodoro Joe</h2>
+				<div align="center" >  
+					<a href='https://pomodoro-joe.netlify.app' target="_blank">
+						<img src="https://github.com/joedarezone/readme-assets/blob/main/project_images/pomodoro-joe.gif" alt="Pomodoro Joe website" />
+					</a>
+					<br>
+					<br>
+					<p>
+						<a href="https://github.com/joedarezone/pomodoro-joe" target="_blank">
+							<img src="https://img.shields.io/badge/Repo-important?style=for-the-badge&logo=github"/>
+						</a>  
+						<a href="https://pomodoro-joe.netlify.app" target="_blank">
+							<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=0CA4BD"/>
+						</a>	
+					</p>
+					<p>Pomodoro Timer with Tasks list and music player<br>
+                    <strong>React, JavaScript, CSS, HMTL</strong></p>
+				</div>
+>>>>>>> 2f15a3ea7b67154c097d008a56179ed4d2b19384
 		<td width="50%">
 			<h3 align="center" color="white">The Burrows B&B</h2>
 			<div align="center" >  
 				<a href="https://www.theburrowsportclew.co.uk/" target="_blank">
-					<img src="https://github.com/joewhocodes/readme-assets/blob/main/project_images/the-burrows.gif" alt="The Burrows Bed & Breakfast site" />
+					<img src="https://github.com/joedarezone/readme-assets/blob/main/project_images/the-burrows.gif" alt="The Burrows Bed & Breakfast site" />
 				</a>
 				<br>
 				<br>
@@ -130,6 +153,9 @@ I'm Joe.
 		<a href="https://redux.js.org/">
 			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" 	height="80px" width="80px"/>
 		</a>
+		<a href="https://www.typescriptlang.org">
+			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" 	height="80px" width="80px"/>
+		</a>
 		<a href="https://www.javascript.com/">
 			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="80px" width="80px"/>
 		</a>
@@ -151,6 +177,9 @@ I'm Joe.
 		<a href="https://nodejs.org/en/">
 			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" 	height="80px" width="80px"/>
 		</a>
+		<a href="https://firebase.google.com/">
+			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="80px" width="80px"/>
+		</a>
 		<a href="https://www.mongodb.com/">
 			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" 	height="80px" width="80px"/>
 		</a>
@@ -165,6 +194,4 @@ I'm Joe.
 </div>
 <br>	
 <div align="center">
-	
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joewhocodes&" alt="joewhocodes" /></p>
-</div>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joedarezone&" alt="joedarezone" /></p>
