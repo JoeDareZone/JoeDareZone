@@ -25,11 +25,9 @@ I'm Joe.
 	</a>
 </div>
 
-- 🌱 I’m currently expanding my knowledge of **Flutter**
+-   🌱 I’m currently expanding my knowledge of **Flutter**
 
-- 🤝 Now accepting new clients, see my portfolio at <a href='https://joewhocodes.netlify.app'>**joewhocodes.netlify.app**<a/>
-
--   🤝 Now accepting new clients, see my portfolio at <a href='https://joewhocodes.co.uk/'>**joewhocodes.co.uk**<a/>
+-   🤝 Now accepting new clients, see my portfolio at <a href='https://joewhocodes.netlify.app'>**joewhocodes.com**<a/>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Joe%20Ulyatt-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/joewhocodes/)](https://www.linkedin.com/in/joewhocodes/)
 [![Codewars Badge](https://www.codewars.com/users/joewhocodes/badges/micro)](https://www.codewars.com/users/joewhocodes)
@@ -44,20 +42,12 @@ I'm Joe.
 			<td width="50%">
 				<h3 align="center" color="white">Hazel</h2>
 				<div align="center" >  
-					<a href="https://play.google.com/store/apps/details?id=com.darezone.hazel&hl=en_GB" target="_blank">
+					<a href="https://apps.apple.com/us/app/hazel-dating-flirt-chat-meet/id6450385167?platform=iphone" target="_blank">
 						<img src="https://github.com/joewhocodes/readme-assets/blob/main/project_images/hazel-portfolio.png" alt="Hazel on the App Store"  />
 					</a>
 					<br>
 					<br>
-					<!-- <p>
-						<a href="https://github.com/joewhocodes/no-strings-attached" target="_blank">
-							<img src="https://img.shields.io/badge/Repo-important?style=for-the-badge&logo=github"/>
-						</a>  
-						<a href="https://nostringsattached.onrender.com" target="_blank">
-							<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=0CA4BD"/>
-						</a>	
-					</p> -->
-					<p>Hazel Dating: Flirt Chat Meet
+					<p>Dating and social media app
                     <br><strong>React Native | TypeScript | Node.js | Firebase</strong></p>
 				</div>
 			</td>
@@ -69,16 +59,8 @@ I'm Joe.
 					</a>
 					<br>
 					<br>
-					<!-- <p>
-						<a href="https://github.com/joewhocodes/moviegojoe" target="_blank">
-							<img src="https://img.shields.io/badge/Repo-important?style=for-the-badge&logo=github"/>
-						</a>  
-						<a href="https://moviegojoe.netlify.app" target="_blank">
-							<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=0CA4BD"/>
-						</a>	
-					</p> -->
 					<p>Create your own AI Avatars
-                    <br><strong>React Native | TypeScript | Python | Tailwind CSS</strong></p>
+                    <br><strong>React Native | TypeScript | Python | Tailwind</strong></p>
 				</div>         
 	<tr>
 		<td width="50%">
@@ -98,7 +80,7 @@ I'm Joe.
 					</a>	
 				</p>
 				<p>View trending Movie/TV trailers to add to your watchlist
-				<br><strong>React, Redux, JavaScript, CSS, HMTL</strong></p>
+				<br><strong>React | Redux | JavaScript | CSS | HMTL</strong></p>
 			</div>      
 		<td width="50%">
 			<h3 align="center" color="white">The Burrows B&B</h2>
@@ -114,7 +96,7 @@ I'm Joe.
 					</a>    
 				</p>
 				<p>Hotel website with integrated booking platform
-				<br><strong>JavaScript, Jquery, CSS, HMTL</strong></p>
+				<br><strong>JavaScript | Jquery | CSS | HMTL</strong></p>
 			</div>         
 		</td>
 	</table>
@@ -122,10 +104,12 @@ I'm Joe.
 <br />
 <br />
 
-
 <h3 align="left">Languages and Tools:</h3>
 <div align="center">
 	<h2>Front End</h2>
+		<a href="https://flutter.dev/">
+			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" 	height="80px" width="80px"/>
+		</a>
 		<a href="https://reactjs.org/">
 			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" 	height="80px" width="80px"/>
 		</a>
@@ -142,12 +126,6 @@ I'm Joe.
 			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" /
 			height="100px" width="100px">
 		</a>
-		<a href="https://www.w3.org/Style/CSS/Overview.en.html">
-			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" 	height="80px" width="80px"/>
-		</a>
-		<a href="https://en.wikipedia.org/wiki/HTML5">
-			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" 	height="80px" width="80px"/>
-		</a>
 		<br>
 	<h2>Back End</h2>
 		<a href="https://expressjs.com/">
@@ -159,11 +137,17 @@ I'm Joe.
 		<a href="https://firebase.google.com/">
 			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="80px" width="80px"/>
 		</a>
+		<a href="https://python.org/">
+			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="80px" width="80px"/>
+		</a>
 		<a href="https://www.mongodb.com/">
 			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" 	height="80px" width="80px"/>
 		</a>
 		<br>
 	<h2>Other</h2>
+		<a href="https://www.figma.com/">
+			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" 	height="80px" width="80px"/>
+		</a>
 		<a href="https://www.adobe.com/uk/products/photoshop.html">
 			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" 	height="80px" width="80px"/>
 		</a>
