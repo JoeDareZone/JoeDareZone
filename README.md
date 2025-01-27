@@ -10,7 +10,6 @@ I'm Joe.
 <p align='center'>
 </p>
 
-
 <div align="center" >  
 	<a href="https://www.linkedin.com/in/joewhocodes" target="_blank">
 		<img src="https://github.com/joewhocodes/readme-assets/blob/main/profile_images/linkedin.png" alt="linkedin icon" height="45px" />
@@ -26,79 +25,79 @@ I'm Joe.
 	</a>
 </div>
 
-- 🌱 I’m currently expanding my knowledge of **React Native**
+-   🌱 I’m currently expanding my knowledge of **Flutter**
 
-- 🤝 Now accepting new clients, see my portfolio at <a href='https://joewhocodes.co.uk/'>**joewhocodes.co.uk**<a/>
-
+-   🤝 Now accepting new clients, see my portfolio at <a href='https://joewhocodes.co.uk/'>**joewhocodes.co.uk**<a/>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Joe%20Ulyatt-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/joewhocodes/)](https://www.linkedin.com/in/joewhocodes/)
 [![Codewars Badge](https://www.codewars.com/users/joewhocodes/badges/micro)](https://www.codewars.com/users/joewhocodes)
 [![GitHub Follow](https://img.shields.io/github/followers/joewhocodes?label=Follow&style=social)](https://github.com/joewhocodes/?tab=follow)
-  ---
+
+---
 
 <h2 align="center" color="white">Recent Projects</h2>
 <div align="center">
 	<table>
 		<tr>
 			<td width="50%">
-				<h3 align="center" color="white">No Strings Attached</h2>
+				<h3 align="center" color="white">Hazel</h2>
 				<div align="center" >  
-					<a href="https://nostringsattached.onrender.com" target="_blank">
-						<img src="https://github.com/joewhocodes/readme-assets/blob/main/project_images/nostringsattached-gif.gif" alt="No Strings Attached website"  />
+					<a href="https://play.google.com/store/apps/details?id=com.darezone.hazel&hl=en_GB" target="_blank">
+						<img src="https://github.com/joewhocodes/readme-assets/blob/main/project_images/hazel-portfolio" alt="Hazel on the App Store"  />
 					</a>
 					<br>
 					<br>
-					<p>
+					<!-- <p>
 						<a href="https://github.com/joewhocodes/no-strings-attached" target="_blank">
 							<img src="https://img.shields.io/badge/Repo-important?style=for-the-badge&logo=github"/>
 						</a>  
 						<a href="https://nostringsattached.onrender.com" target="_blank">
 							<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=0CA4BD"/>
 						</a>	
-					</p>
-					<p>Full Stack Social Media Web App
-                    <br><strong>MERN Stack - MongoDB, Express, React, Node.js, Redux,</strong></p>
+					</p> -->
+					<p>Hazel Dating: Flirt Chat Meet
+                    <br><strong>React Native | TypeScript | Node.js | Firebase</strong></p>
 				</div>
 			</td>
 			<td width="50%">
-				<h3 align="center" color="white">MovieGoJoe</h2>
+				<h3 align="center" color="white">Retrolens</h2>
 				<div align="center" >  
-					<a href="https://moviegojoe.netlify.app" target="_blank">
-						<img src="https://github.com/joewhocodes/readme-assets/blob/main/project_images/moviegojoe.gif" alt="Movie Go Joe website" />
+					<a href="https://apps.apple.com/us/app/retrolens/id6476144464" target="_blank">
+						<img src="https://github.com/joewhocodes/readme-assets/blob/main/project_images/retrolens-portfolio" alt="Retrolens on the App Store" />
 					</a>
 					<br>
 					<br>
-					<p>
+					<!-- <p>
 						<a href="https://github.com/joewhocodes/moviegojoe" target="_blank">
 							<img src="https://img.shields.io/badge/Repo-important?style=for-the-badge&logo=github"/>
 						</a>  
 						<a href="https://moviegojoe.netlify.app" target="_blank">
 							<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=0CA4BD"/>
 						</a>	
-					</p>
-					<p>View trending Movie/TV trailers and add to a watchlist
-                    <br><strong>React, Redux, JavaScript, CSS, HMTL</strong></p>
+					</p> -->
+					<p>Create your own AI Avatars
+                    <br><strong>React Native | TypeScript | Python | Tailwind CSS</strong></p>
 				</div>         
 	<tr>
 		<td width="50%">
-			<h3 align="center" color="white">Pomodoro Joe</h2>
-				<div align="center" >  
-					<a href='https://pomodoro-joe.netlify.app' target="_blank">
-						<img src="https://github.com/joewhocodes/readme-assets/blob/main/project_images/pomodoro-joe.gif" alt="Pomodoro Joe website" />
-					</a>
-					<br>
-					<br>
-					<p>
-						<a href="https://github.com/joewhocodes/pomodoro-joe" target="_blank">
-							<img src="https://img.shields.io/badge/Repo-important?style=for-the-badge&logo=github"/>
-						</a>  
-						<a href="https://pomodoro-joe.netlify.app" target="_blank">
-							<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=0CA4BD"/>
-						</a>	
-					</p>
-					<p>Pomodoro Timer with Tasks list and music player<br>
-                    <strong>React, JavaScript, CSS, HMTL</strong></p>
-				</div>
+			<h3 align="center" color="white">MovieGoJoe</h2>
+			<div align="center" >  
+				<a href="https://moviegojoe.netlify.app" target="_blank">
+					<img src="https://github.com/joewhocodes/readme-assets/blob/main/project_images/moviegojoe.gif" alt="Movie Go Joe website" />
+				</a>
+				<br>
+				<br>
+				<p>
+					<a href="https://github.com/joewhocodes/moviegojoe" target="_blank">
+						<img src="https://img.shields.io/badge/Repo-important?style=for-the-badge&logo=github"/>
+					</a>  
+					<a href="https://moviegojoe.netlify.app" target="_blank">
+						<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=0CA4BD"/>
+					</a>	
+				</p>
+				<p>View trending Movie/TV trailers to add to your watchlist
+				<br><strong>React, Redux, JavaScript, CSS, HMTL</strong></p>
+			</div>      
 		<td width="50%">
 			<h3 align="center" color="white">The Burrows B&B</h2>
 			<div align="center" >  
@@ -120,11 +119,8 @@ I'm Joe.
 </div>
 <br />
 <br />
-	
-	
 
 
-	
 <h3 align="left">Languages and Tools:</h3>
 <div align="center">
 	<h2>Front End</h2>
@@ -171,5 +167,4 @@ I'm Joe.
 <div align="center">
 	
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joewhocodes&" alt="joewhocodes" /></p>
-</div>   
-
+</div>
